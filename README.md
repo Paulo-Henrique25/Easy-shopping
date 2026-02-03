@@ -1,9 +1,7 @@
-<h1>Easy shopping</h1>
+<h1>Easy Shopping</h1>
 <br>
-<br>
-<h2>Este foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
-<br>
-<h2>Tecnologias Utilizadas</h2>
-<p> - HTML</p>
-<p> - CSS</p>
-<img src="https://github.com/Paulo-Henrique25/Projeto-001/blob/develop/img/pc%20imagem%20github.png?raw=true">
+<h2>Esse foi o projeto que aprendi no <a href='https://rodolfomori.com.br'>devclub</a></h2>
+<p> Linguagens ultilizadas no projeto:</p>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+<img src='https://github.com/adrianocpd/easy-shopping/blob/main/imagem%20melhorada.png?raw=true'/>
